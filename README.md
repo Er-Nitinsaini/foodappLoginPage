@@ -1,3 +1,5 @@
+#User Data
+
 ```bash
 
 {"_id":{"$oid":"687a8b1b2161d61965a042ae"},
@@ -48,3 +50,6 @@ npx nodemon
 or
 
 node index.js
+```
+
+mobile otp show in terminal
